@@ -1,2 +1,2 @@
-FROM gcr.io/kubeflow-images-public/katib/v1alpha3/suggestion-chocolate:v0.9.0
-MAINTAINER zz<zhongzheng0813@163.com>
+FROM gcr.io/kubeflow-images-public/katib/v1alpha3/file-metrics-collector:v0.8.0
+MAINTAINER liu<zhongzheng0813@163.com>
